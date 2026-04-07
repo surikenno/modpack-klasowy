@@ -11,6 +11,11 @@
       "path": "mods/jei-1.20.1-forge-15.20.0.129.jar",
       "hash": "eba88424bd28c8bce0e49da13ada71cd47148b47",
       "url": "https://raw.githubusercontent.com/surikenno/mc-server-files/main/mods/jei-1.20.1-forge-15.20.0.129.jar"
+    },
+    {
+      "path": "mods/gamemenumodoption-mc1.20.1-2.2.1.jar",
+      "hash": "3de6257b1bac0cb2f4d19baee7234ec497876fec",
+      "url": "https://raw.githubusercontent.com/surikenno/mc-server-files/main/mods/gamemenumodoption-mc1.20.1-2.2.1.jar"
     }
   ]
 }
