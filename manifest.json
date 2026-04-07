@@ -5,12 +5,7 @@
     {
       "path": "mods/jei-1.20.1.jar",
       "hash": "a1b2c3d4e5f6...",
-      "url": "https://raw.githubusercontent.com/TWOJ_NICK/REPO/main/mods/jei-1.20.1.jar"
-    },
-    {
-      "path": "mods/optifine.jar",
-      "hash": "z9y8x7w6v5...",
-      "url": "https://raw.githubusercontent.com/TWOJ_NICK/REPO/main/mods/optifine.jar"
+      "url": "https://raw.githubusercontent.com/surikenno/mc-server-files/main/mods/jei-1.20.1.jar"
     }
   ]
 }
