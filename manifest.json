@@ -3,9 +3,9 @@
   "minecraftVersion": "1.20.1",
   "files": [
     {
-      "path": "mods/jei-1.20.1.jar",
+      "path": "mods/jei-1.20.1-forge-15.20.0.129.jar",
       "hash": "a1b2c3d4e5f6...",
-      "url": "https://raw.githubusercontent.com/surikenno/mc-server-files/main/mods/jei-1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/surikenno/mc-server-files/main/mods/jei-1.20.1-forge-15.20.0.129.jar"
     }
   ]
 }
