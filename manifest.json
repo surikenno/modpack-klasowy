@@ -3,10 +3,6 @@
     "modLoader": "forge",
     "files": [
         {
-            "path": "mods/jei-1.20.1-forge-15.20.0.129.jar",
-            "url": "https://raw.githubusercontent.com/surikenno/mc-server-files/main/mods/jei-1.20.1-forge-15.20.0.129.jar"
-        },
-        {
             "path": "resourcepacks/Better-Leaves-9.5.zip",
             "url": "https://raw.githubusercontent.com/surikenno/mc-server-files/main/resourcepacks/Better-Leaves-9.5.zip"
         }
